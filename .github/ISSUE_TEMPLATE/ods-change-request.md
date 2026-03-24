@@ -1,5 +1,5 @@
 ---
-name: Change Request1
+name: ODS Change Request
 about: This is the template to use with a Change Request
 title: "[CHANGE] "
 labels: ''
