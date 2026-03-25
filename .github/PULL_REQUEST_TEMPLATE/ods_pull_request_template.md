@@ -1,3 +1,3 @@
-*Main Issue #:*
+*Issue #:*
 
 *Description of changes:*
