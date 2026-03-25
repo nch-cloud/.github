@@ -7,6 +7,8 @@ assignees: ''
 type: Change
 
 ---
+If you have not already, read the [Link to Change Management Procedure].
+
 #### Change Type: [standard, normal, urgent, emergency]
 
 #### Business Justification:
