@@ -7,13 +7,18 @@ assignees: ''
 type: Change
 
 ---
+#### Change Type: [standard, normal, urgent, emergency]
 
 #### Business Justification:
 
-#### Pre-Implementation Testing:
+#### Testing and Validation:
 
 #### Implementation Plan:
 
-#### Back Out Plan:
+#### Rollback Triggers: [what conditions or thresholds trigger a rollback]
+
+#### Rollback Plan:
 
 #### Communication Plan:
+
+#### Required Approvers: [list names or roles responsible for approving this change]
