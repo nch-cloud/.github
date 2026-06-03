@@ -65,8 +65,3 @@ assignees: ''
 ## Additional Context
 
 <!-- Any other relevant information, links, or references. -->
-
-## Checklist
-
-- [ ] I have searched existing issues and this is not a duplicate
-- [ ] I have provided enough context to reproduce or understand the issue
