@@ -7,17 +7,17 @@ assignees: ''
 type: Change
 
 ---
-Before submitting a change, review our [Change Management Process](https://nationwidechildrens.sharepoint.com/:b:/r/sites/A10147/Shared%20Documents/03%20Processes/SRE-PRC-001%20Change%20Management%20Process.pdf?d=wf2dd981ff29944edb6ef1f3aa24e96d1&csf=1&web=1&e=WWqEiu) on ANCHOR. 
+Before submitting a change, review our Change Management Process on ANCHOR. 
 
 # [CHANGE] <short descriptive title> 
 One or two lines: what this is, the parent issue, and any associated PRs. 
  
 ## Change Type 
 Normal, Standard, or Emergency.
-NOTE: 'Standard' changes must have prior been logged in our [Standard Change Registry](https://nationwidechildrens.sharepoint.com/:w:/r/sites/H10708/Shared%20Documents/01%20RESOURCES/05%20Program%20Management/SRE-APX-009%20SRE%20Standard%20Change%20Register%20v1.0.docx?d=wc06c6473c4a8436b9b6c5a7966906186&csf=1&web=1&e=2INMGN).
+> NOTE: 'Standard' changes must have prior been logged in our Standard Change Registry on the SRE Sharepoint.
  
 ## Risk Level 
-Low, Medium, or High as assessed by our [Risk Assessment Matrix](https://nationwidechildrens.sharepoint.com/:b:/r/sites/A10147/Shared%20Documents/07%20Appendices/SRE-APX-002%20Risk%20Assessment%20Matrix.pdf?d=wc40d891fd9e64ee89a4e6a65c1217369&csf=1&web=1&e=tfKxcS).
+Low, Medium, or High as assessed by our Risk Assessment Matrix on ANCHOR.
  
 ## Business Justification 
 The problem this solves and why it needs to be done. 
